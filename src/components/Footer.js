@@ -24,7 +24,7 @@ const Footer = () => {
                 href={href}
                 target="_blank"
                 className="footer-icon"
-                rel="noregerrer"
+                rel="noreferrer"
               >
                 <i className={icon}></i>
               </a>
